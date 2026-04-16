@@ -1,0 +1,12 @@
+{
+  "name": "cafefam-backend",
+  "version": "1.0.0",
+  "description": "Café Fam AI Chatbot Backend — Vercel Serverless",
+  "type": "module",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "engines": {
+    "node": "20.x"
+  }
+}
